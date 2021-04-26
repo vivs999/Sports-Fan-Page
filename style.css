@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: Lucidatypewriter, monospace;;
+    background-color:rgb(255, 200, 220)
+}
+h1{
+    color:red;
+}
+
+p{
+    margin-left: 12px;
+    margin-right: 12px;
+}
